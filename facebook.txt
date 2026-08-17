@@ -20,3 +20,4 @@ star.c10r.facebook.com
 messenger.com
 workplace.com
 gateway.facebook.com
+www.facebook.com
