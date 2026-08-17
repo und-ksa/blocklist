@@ -1,6 +1,11 @@
 snapchat.com
 sc-cdn.net
+sc-static.net
 snap-dev.net
-snapkit.co
 snapads.com
-impala-media-production.s3.amazonaws.com
+snapkit.com
+gcp.gvt2.com
+aws.sc-cdn.net
+feelinsonice.com
+snapchat.net
+app.snapchat.com
