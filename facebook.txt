@@ -1,11 +1,7 @@
 facebook.com
 www.facebook.com
 m.facebook.com
-mobile.facebook.com
-web.facebook.com
-touch.facebook.com
 fb.com
-facebook.net
 fbcdn.net
 static.xx.fbcdn.net
 scontent.xx.fbcdn.net
