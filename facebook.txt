@@ -21,3 +21,6 @@ messenger.com
 workplace.com
 gateway.facebook.com
 www.facebook.com
+grap-fallback.facebook.com
+scontent.xx.fbcdn.net
+b-graph.facebook.com
